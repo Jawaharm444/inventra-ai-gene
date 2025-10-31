@@ -1,0 +1,3 @@
+public interface FitnessFunction {
+    double calculateFitness(Chromosome chromosome);
+}
